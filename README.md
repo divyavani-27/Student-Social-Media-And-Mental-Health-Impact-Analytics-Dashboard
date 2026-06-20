@@ -26,4 +26,4 @@ Explores how sleep, study time, physical activity, and social media use relate t
 Power BI Desktop, DAX, Power Query, Excel/CSV, Bing Maps (geo visuals)
 
 ##Project link
-[]
+[https://github.com/divyavani-27/Student-Social-Media-And-Mental-Health-Impact-Analytics-Dashboard.git]
